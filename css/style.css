@@ -1,6 +1,6 @@
 h1{
     color:blue;
-    background-color: blueviolet;
+    background-color: rgb(193, 148, 236);
     
     
     
@@ -8,5 +8,11 @@ h1{
 
 body{
     background-color: bisque;
+    
+}
+
+.navitem{
+    color: rgb(240, 2, 2);
+    font-weight: bold;
     
 }
