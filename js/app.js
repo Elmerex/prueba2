@@ -78,6 +78,9 @@ console.log(myMouse);*/
 import Button from "./components/button.js";
 import Video from "./components/video.js";
 
+    
+</form>
+
 
 const myApp = document.getElementById("myApp");
 
